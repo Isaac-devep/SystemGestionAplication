@@ -16,6 +16,7 @@ SystemGestionAplication es una aplicación de gestión empresarial que permite l
 - MongoDB (local o en la nube)
 - Biblioteca `DPFP` para la captura de huellas digitales
 - Variables de entorno para la configuración de seguridad
+- SDK DigitalPersona 4500
 
 ## Instalación
 
